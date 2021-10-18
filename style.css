@@ -1,0 +1,197 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+body{
+  font-family: 'PT Sans', sans-serif;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+ul li{
+  list-style: none;
+}
+
+/* =============
+header section
+================*/
+
+.tonyone-header-section{
+  background-color: #fbdb00;
+  padding: 50px 0;
+  height: 100vh;
+}
+.menu-icon{
+  font-size: 30px;
+  text-align: left;
+}
+.tonyone-logo{
+  font-size: 30px;
+  text-align: center;
+}
+.tonyone-social-icon{
+  font-size: 25px;
+  text-align: right;
+}
+.tonyone-social-icon a{
+  padding: 0 10px;
+}
+.tonyone-header-title{
+ padding-top: 217px;
+ text-align: center;
+}
+.tonyone-header-title h1{
+  font-weight: bold;
+  font-size: 48px;
+  color: #010101;
+}
+.tonyone-header-title p{
+ font-size: 20px;
+ color: #313841;
+ padding: 30px 0;
+}
+.tonyone-store-button{
+  font-size: 30px;
+  text-align: center;
+  padding-bottom: 100px;
+}
+.tonyone-store-button i{
+  width: 40px;
+  height: auto;
+ }
+.tonyone-store-button a{
+  color: black;
+  border: 2px solid black;
+  border-radius: 50%;
+  padding: 10px;
+  text-align: center;
+  margin: 0 15px;
+}
+.tonyone-indicator{
+  text-align: center;
+  cursor: pointer;
+}
+
+/* ===========
+body section
+==============*/
+
+.tonyone-body-section{
+  background-color: #fff;
+  padding: 110px 0;
+}
+.tonyone-body-title{
+ text-align: center;
+ padding-bottom: 65px;
+}
+.tonyone-body-title h1{
+  font-weight: bold;
+  font-size: 32px;
+  color: #010101;
+  padding-top: 40px;
+}
+.tonyone-body-title p{
+  color: #313841;
+  font-size: 20px;
+  padding-top: 20px;
+}
+.tinyone-features-discription{
+  text-align: left;
+  padding-top: 125px;
+}
+.tinyone-features-discription-1{
+  text-align: left;
+  margin-top: -150px;
+}
+.tinyone-features-photo{
+  margin-top: 100px;
+  margin-left: 130px;
+}
+.tinyone-features-discription h2{
+  font-size: 22px;
+  color: #010101;
+  font-weight: 600;
+}
+.tinyone-features-discription p{
+  color: #898989;
+  font-size: 16px;
+}
+.tinyone-features-discription-1 h2{
+  font-size: 22px;
+  color: #010101;
+  font-weight: 600;
+}
+.tinyone-features-discription-1 p{
+  color: #898989;
+  font-size: 16px;
+}
+
+/* ==============
+footer section
+===============*/
+
+.tonyone-footer-section{
+  background-color: #010101;
+  padding: 100px 0 220px;
+}
+.footer-title{
+  text-align: center;
+}
+.footer-title h1{
+  font-size: 32px;
+  font-weight: bold;
+  color: #fcdb00;
+}
+.footer-title p{
+  font-size: 20px;
+  color: #898989;
+  padding-bottom: 45px;
+}
+.footer-input{
+ text-align: center;
+}
+
+.input-form input{
+  width: 580px;
+  height: 50px;
+  padding: 10px;
+  outline: none;
+  border-radius: 5px;
+  border: 2px solid #fff;
+}
+.input-form button{
+  width: 125px;
+  height: 50px;
+  border-radius: 5px;
+  border: 2px solid #fcdb00;
+  background-color: #fcdb00;
+  font-weight: bold;
+  font-size: 16px;
+  margin-left: 21px;
+  -webkit-transition: .5s;
+  -o-transition: .5s;
+  transition: .5s;
+  margin-bottom: 185px;
+}
+.input-form button:hover{
+  background-color:  hsl(83, 100%, 49%);
+  border: 2px solid hsl(83, 100%, 49%);
+}
+.footer-details{
+  margin-left: 200px;
+}
+.footer-discription p{
+  color: #fff;
+  font-size: 16px;
+  text-align: left;
+}

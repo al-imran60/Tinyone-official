@@ -1,0 +1,156 @@
+@media (max-width: 991px) {
+
+
+/* =====
+body section
+======*/
+
+  .tinyone-features-photo{
+    margin-top: 150px;
+    margin-left: 0px;
+  }
+  .tinyone-features-discription h2{
+    font-size: 17px;
+  }
+  .tinyone-features-discription p{
+    font-size: 14px;
+  }
+  .tinyone-features-discription-1 h2{
+    font-size: 17px;
+  }
+  .tinyone-features-discription-1 p{
+    font-size: 14px;
+  }
+
+
+  /* =======
+  footer section
+  =========*/
+
+  .footer-title h1{
+    font-size: 25px;
+  }
+  .footer-title p{
+    font-size: 16px;
+  }
+  .input-form input{
+    width: 540px;
+  }
+  .input-form button{
+    width: 115px;
+  }
+  .footer-details{
+    margin-left: 70px;
+  }
+
+}
+
+
+@media (max-width: 760px) {
+
+
+/* =======
+header section
+========*/
+
+.menu-icon{
+  font-size: 20px;
+}
+.tonyone-logo{
+  font-size: 15px;
+  margin-top: -40px;
+  margin-left: -100px;
+}
+.tonyone-social-icon{
+  font-size: 23px;
+  margin-left: 80px;
+  margin-top: -38px;
+}
+
+/* =====
+body section
+======*/
+
+.tinyone-features-photo{
+  margin-top: 100px;
+  text-align: left;
+}
+.tinyone-features-discription h2{
+  font-size: 25px;
+}
+.tinyone-features-discription p{
+  font-size: 18px;
+}
+.tinyone-features-discription-1 h2{
+  font-size: 25px;
+  margin-top: 190px;
+}
+.tinyone-features-discription-1 p{
+  font-size: 18px;
+}
+
+/* ====footer==== */
+
+.input-form input{
+  width: 320px;
+  text-align: left;
+}
+.input-form button{
+  width: 110px;
+}
+.footer-details{
+  margin-left: 0px;
+}
+.footer-discription p{
+  font-size: 14px;
+}
+
+
+}
+
+
+@media (max-width: 478px) {
+
+/* ===header=== */
+.menu-icon{
+  font-size: 20px;
+}
+.menu-icon i{
+  margin-top: 20px;
+}
+.tonyone-logo{
+  font-size: 5px;
+  margin-top: -70px;
+  margin-left: -5px;
+  padding-bottom: 50px;
+}
+
+.tonyone-social-icon{
+  margin-top: -25px;
+  text-align: left;
+}
+
+.tonyone-header-title h1{
+  font-size: 38px;
+}
+.tonyone-header-title p{
+ font-size: 14px;
+}
+.tonyone-store-button{
+  font-size: 20px;
+}
+/* ====footer==== */
+
+.input-form input{
+  width: 120px;
+  text-align: left;
+}
+
+.footer-details{
+  margin-left: 40px;
+}
+.footer-discription p{
+  font-size: 16px;
+  padding: 20px 0;
+}
+}
